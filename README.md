@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🎛️ SAC.VJ Producciones | AV & Software Tech</h1>
+  <h1>🎛️ SAC.VJ | AV & Software Tech</h1>
   <p><b>Freelance VJ & Técnico Audiovisual | Estudiante de Desarrollo de Software</b></p>
   <p>📍 Costa Rica | <a href="https://sac-av-web.netlify.app/" target="_blank">🌐 Sitio Web Oficial</a></p>
 </div>
